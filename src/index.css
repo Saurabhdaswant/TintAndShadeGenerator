@@ -2,3 +2,13 @@
 * {
   font-family: "Inter", sans-serif;
 }
+
+.error {
+  border: 3px solid red;
+}
+
+input {
+  outline: none;
+  border: none;
+  background-color: #e6f2e6;
+}
